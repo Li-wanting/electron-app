@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Li-wanting/electron.git"
+    "url": "git+https://github.com/Li-wanting/electron-app.git"
   },
   "author": "Echo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Li-wanting/electron/issues"
+    "url": "https://github.com/Li-wanting/electron-app/issues"
   },
-  "homepage": "https://github.com/Li-wanting/electron#readme",
+  "homepage": "https://github.com/Li-wanting/electron-app#readme",
   "devDependencies": {
     "electron": "^35.0.3"
   }
